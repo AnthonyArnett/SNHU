@@ -11,16 +11,9 @@ Throughout my coursework so far, I have gained experience with:
 
 # Repository Organization
 This repository is organized by course, such as:
-* CS210: Programming Languages
+* **CS-210:** Programming Languages
   
 Each folder typically includes:
 * Source code files
 * Documentation
 * Screenshots or example outputs
-
-# Purpose
-This repository is intended to showcase my completed coursework, serve as a personal archive of my academic growth, and act as a foundation for future personal projects.
-
-# Final Note
-Thank's for checking out my work.
-If you have questions or would like to collaborate, feel free to connect with me through GitHub or any of my social links.
